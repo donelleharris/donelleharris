@@ -1,5 +1,5 @@
 ### Hi, I'm Donelle. 👋
-## I'm a software developer.
+## I'm a software developer in training.
 
 Here are some ideas to get you started:
 
