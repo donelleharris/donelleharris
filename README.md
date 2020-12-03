@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ... everything (still learning)
 - 💬 Ask me about ... **current projects**
 - ⚡ Fun fact: ... **I spent 23 years as an Educator**.
-- 📫 How to reach me: ... **see my contact info on [LinkedIn](https://www.linkedin.com/in/donelleharris/)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/donelleharris/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donelleharris&show_icons=true" alt="donelleharris" /></p>
 
