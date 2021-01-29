@@ -15,15 +15,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donelleharris&show_icons=true" alt="donelleharris" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Carrillo&theme=synthwave&layout=compact)](https://github.com/Jason-Carrillo/github-readme-stats)
-
-
-#### Backend
-<p float="left">
-  <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donelleharris&theme=synthwave&layout=compact)](https://github.com/donelleharris/github-readme-stats)
 
 #### Frontend
 <p float="left">
@@ -32,6 +24,13 @@
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+</p>
+
+#### Backend
+<p float="left">
+  <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 #### Version Control
