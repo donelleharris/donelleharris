@@ -1,11 +1,11 @@
 # Hi, I'm Donelle 👋
 ## I'm a software developer in training.
 
-- 🔭 I’m currently working on ... **my Codeup blog**
-- 🌱 I’m currently learning ... **Spring Boot, Java & MVC**
+- 🔭 I’m currently working on ... **Sidecar.live - capstone project v2**
+- 🌱 I’m currently learning ... **Python**
 - 👯 I’m looking to collaborate on ... **anything that will grow my web dev skills**
-- 🤔 I’m looking for help with ... everything (still learning)
-- 💬 Ask me about ... **current projects**
+- 🤔 I’m looking for help with ... pretty much everything (still learning)
+- 💬 Ask me about ... **Sidecar.live**
 - ⚡ Fun fact: ... **I spent 23 years as an Educator**.
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/donelleharris/)
 
