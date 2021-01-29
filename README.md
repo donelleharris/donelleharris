@@ -1,5 +1,5 @@
 # Hi, I'm Donelle 👋
-## I'm a software developer in training.
+## I'm a new Software Developer.
 
 - 🔭 I’m currently working on ... **Sidecar.live - capstone project v2**
 - 🌱 I’m currently learning ... 
