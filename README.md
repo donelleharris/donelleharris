@@ -2,7 +2,11 @@
 ## I'm a software developer in training.
 
 - 🔭 I’m currently working on ... **Sidecar.live - capstone project v2**
-- 🌱 I’m currently learning ... <p><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></p>
+- 🌱 I’m currently learning ... 
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Angular.js" src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>
+</p>
 - 👯 I’m looking to collaborate on ... **anything that will grow my web dev skills**
 - 🤔 I’m looking for help with ... pretty much everything (still learning)
 - 💬 Ask me about ... **Sidecar.live**
